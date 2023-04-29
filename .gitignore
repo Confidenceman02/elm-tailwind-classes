@@ -1,0 +1,6 @@
+node_modules
+dist
+elm-stuff
+src/TW/**/*
+.parcel-cache
+ui_dist
